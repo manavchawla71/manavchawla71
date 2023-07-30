@@ -10,9 +10,7 @@
 - 💬 Ask me about **React, Node(ExpressJs), HTML, CSS**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/manav-chawla-0956381b2" target="blank"></a>
+<h3 align="left">Connect with me:</h3> <a href="https://www.linkedin.com/in/manav-chawla-0956381b2" target="blank"rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 
 <h3 align="left">Skills:</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp&nbsp </a>  
