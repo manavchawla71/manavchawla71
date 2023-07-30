@@ -15,13 +15,7 @@
 <a href="https://www.linkedin.com/in/manav-chawla-0956381b2" target="blank"></a>
 
 <h3 align="left">Skills:</h3>
-<p align="left">
-  JavaScript,
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">React.js</a>,
-  <img src="url_to_hooks_image" alt="React Hooks" width="40" height="40" />,
-  <img src="url_to_context_image" alt="Context API" width="40" height="40" />,
-  <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">Postman</a>,
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">VSCode</a>
-</p>
+  <p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
+  </p>
 
 
