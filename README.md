@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I 'm Manav</h1>
-<h3 align="center"> I'm proficient with Javascript, ReactJS, Context API, NodeJs, ExpressJS, HTML & CSS </h3>
+<h3 align="center"> I'm proficient with Javascript, ReactJS, Redux, NodeJs, ExpressJS, HTML & CSS </h3>
 
 
 
